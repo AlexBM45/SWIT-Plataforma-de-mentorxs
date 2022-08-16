@@ -13,3 +13,13 @@ El objetivo de este proyecto es tener una plataforma donde podamos encontrar men
 
 * Django
 * Django Rest Framework
+
+------
+## Structure
+
+[Historias de usuario](https://docs.google.com/spreadsheets/d/1Zm_A2uSoL6TP4z7aJPamm4JGMkB0KYTxU2ychqeHx-I/edit?usp=sharing)
+
+Base de datos
+<picture>
+   <img alt="Base de datos" src="./img/bbdd_metorxs">
+</picture>
