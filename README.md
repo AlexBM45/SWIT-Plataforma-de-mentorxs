@@ -21,5 +21,5 @@ El objetivo de este proyecto es tener una plataforma donde podamos encontrar men
 
 Base de datos
 <picture>
-   <img alt="Base de datos" src="./img/bbdd_metorxs">
+   <img alt="Base de datos" src="./img/bbdd_metorxs.png">
 </picture>
